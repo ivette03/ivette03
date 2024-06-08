@@ -1,7 +1,15 @@
-<div align="center">
+<div align="center" >
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzllOGtmdHRza2NsYTRuOHZjNTlwdHZwc3Y1ajY1NXR1MjRhcTl4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GI5lkXChv0VB0z1glJ/giphy-downsized-large.gif" width="200">
   <h1 align="center">Hola, Soy Ivette 👋😊 </h1>
   <h3 align="center"> Una apasionada estudiante de desarrollo de software apasionada por resolver problemas y con una insaciable curiosidad por aprender</h3>
+ 
+</div>
+<div align="center">
+  <h3>👩🏽‍💻About me</h3>
+  <p>💌Contactame ibetanahy@gmail.com</p>
+  <p>🌴Actualmente estoy aprendiendo laravel</p>
+  
+  
 </div>
 <div align="left">
 <h3>🔨Languages and Tools</h3>
